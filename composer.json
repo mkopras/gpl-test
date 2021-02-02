@@ -1,0 +1,8 @@
+{
+    "name": "mkopras/gpl-test",
+    "description": "test",
+    "keywords": [],
+    "homepage": "https://example.com",
+    "type": "library",
+    "license": "GPL 3.0"
+}
