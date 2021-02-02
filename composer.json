@@ -4,5 +4,6 @@
     "keywords": [],
     "homepage": "https://example.com",
     "type": "library",
-    "license": "GPL 3.0"
+    "license": "GPL 3.0",
+    "minimum-stability": "dev"
 }
